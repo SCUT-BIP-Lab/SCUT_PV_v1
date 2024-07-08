@@ -10,7 +10,7 @@ Contactless palm vein has attracted significant attention for its high security,
 
 ## Database
 **SCUT Palm Vein Database Version 1 (SCUT_PV_v1) **
-For fair comprison to this field, please strictly follow the protocols in our paper (__Section V-A__ for). The database division files and samples are provided.
+For fair comprison to this field, please strictly follow the protocols in our paper (__Section V-A__ for details). The database division files and samples are provided.
 
 --__CSV/SCUT_PV_V1_1100_train.csv__: the .csv file of training set.  
 --__CSV/SCUT_PV_V1_1100_pair_test.csv__: the .csv file of test set. 

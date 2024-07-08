@@ -20,7 +20,7 @@ For fair comprison to this field, please strictly follow the protocols in our pa
 ## Request
 The __SCUT_PV_v1__ is publicly available(free of charge) to the research community. Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
-Those interested in obtaining the whole database should download [release agreement](https://github.com/SCUT-BIP-Lab/LFMB-3DFB/blob/main/SCUT%20LFMB-3DFB%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
+Those interested in obtaining the whole database should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT_PV_v1/blob/main/SCUT_PV_v1%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 While reporting results using the __SCUT_PV_v1__, please cite the following article:    
 

@@ -16,7 +16,7 @@ For fair comprison to this field, please strictly follow the protocols in our pa
 --__CSV/SCUT_PV_V1_1100_pair_test.csv__: the .csv file of test set. 
 --__Sample/RAW__: Raw samples provided to understand this database in detail. 
 --__Sample/ROI__: Corresponding scaled ROI.   
-
+For consistency in palm orientation of ROIs extracted from all databases, we transposed the original image when extracting. 
 ## Request
 The __SCUT_PV_v1__ is publicly available(free of charge) to the research community. Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 

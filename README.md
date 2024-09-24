@@ -22,35 +22,10 @@ The __SCUT_PV_v1__ is publicly available(free of charge) to the research communi
 
 Those interested in obtaining the whole database should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT_PV_v1/blob/main/SCUT_PV_v1%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
-While reporting results using the __SCUT_PV_v1__, please cite the following article:    
-
-@article{Luo2024PalmVR,
-  title={Palm Vein Recognition Under Unconstrained and Weak-Cooperative Conditions},
-  author={Dacan Luo and Yitao Qiao and Di Xie and Shifeng Zhang and Wenxiong Kang},
-  journal={IEEE Transactions on Information Forensics and Security},
-  year={2024},
-  volume={19},
-  pages={4601-4614}
-}
-
-@article{ma2023focal,
-  title={Focal Contrastive Learning for Palm Vein Authentication},
-  author={Ma, Yuer and Huang, Haizhen and Luo, Dacan and Zhang, Shifeng and Kang, Wenxiong and Xie, Di},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2023},
-  publisher={IEEE}
-}
-
-@article{kang2014contactless,
-  title={Contactless palm vein recognition using a mutual foreground-based local binary pattern},
-  author={Kang, Wenxiong and Wu, Qiuxia},
-  journal={IEEE transactions on Information Forensics and Security},
-  volume={9},
-  number={11},
-  pages={1974--1985},
-  year={2014},
-  publisher={IEEE}
-}
+While reporting results using the __SCUT_PV_v1__, please cite the following articles:    
+[1]. Luo, Dacan et al. “Palm Vein Recognition Under Unconstrained and Weak-Cooperative Conditions.” IEEE Transactions on Information Forensics and Security 19 (2024): 4601-4614.
+[2]. Ma, Yuer et al. “Focal Contrastive Learning for Palm Vein Authentication.” IEEE Transactions on Instrumentation and Measurement 72 (2023): 1-15.
+[3]. Kang, Wenxiong, and Qiuxia Wu. "Contactless palm vein recognition using a mutual foreground-based local binary pattern." IEEE transactions on Information Forensics and Security 9.11 (2014): 1974-1985.
 
 ## Contact
 Da can Luo   

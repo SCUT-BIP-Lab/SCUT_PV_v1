@@ -29,21 +29,21 @@ While reporting results using the __SCUT_PV_v1__, please cite the following arti
 [3]. Kang, Wenxiong, and Qiuxia Wu. "Contactless palm vein recognition using a mutual foreground-based local binary pattern." IEEE transactions on Information Forensics and Security 9.11 (2014): 1974-1985.
 
 ## Contact
-Dacan Luo\
-School of Physic and Mechatronic Engineering\
-Guizhou Minzu University\
-Guiyang, Guizhou, China, 550025
+__Dacan Luo__\
+_School of Physic and Mechatronic Engineering_\
+_Guizhou Minzu University_\
+_Guiyang, Guizhou, China, 550025_
 
-Biometrics and Intelligence Perception Lab.   
-College of Automation Science and Engineering   
-South China University of Technology    
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641\
-(gmudacanluo@gmail.com)
+_Biometrics and Intelligence Perception Lab_.   
+_College of Automation Science and Engineering_   
+_South China University of Technology_    
+_Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641_\
+_(gmudacanluo@gmail.com)_
 
 
-Prof. Wenxiong Kang   
-Biometrics and Intelligence Perception Lab.   
-College of Automation Science and Engineering   
-South China University of Technology   
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641      
-(auwxkang@scut.edu.cn)   
+__Prof. Wenxiong Kang__   
+_Biometrics and Intelligence Perception Lab._   
+_College of Automation Science and Engineering_   
+_South China University of Technology_   
+_Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641_      
+_(auwxkang@scut.edu.cn)_   

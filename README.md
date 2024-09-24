@@ -24,7 +24,9 @@ Those interested in obtaining the whole database should download [release agreem
 
 While reporting results using the __SCUT_PV_v1__, please cite the following articles:    
 [1]. Luo, Dacan et al. “Palm Vein Recognition Under Unconstrained and Weak-Cooperative Conditions.” IEEE Transactions on Information Forensics and Security 19 (2024): 4601-4614.
+
 [2]. Ma, Yuer et al. “Focal Contrastive Learning for Palm Vein Authentication.” IEEE Transactions on Instrumentation and Measurement 72 (2023): 1-15.
+
 [3]. Kang, Wenxiong, and Qiuxia Wu. "Contactless palm vein recognition using a mutual foreground-based local binary pattern." IEEE transactions on Information Forensics and Security 9.11 (2014): 1974-1985.
 
 ## Contact

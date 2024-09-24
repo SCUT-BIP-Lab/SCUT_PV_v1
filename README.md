@@ -33,6 +33,24 @@ While reporting results using the __SCUT_PV_v1__, please cite the following arti
   pages={4601-4614}
 }
 
+@article{ma2023focal,
+  title={Focal Contrastive Learning for Palm Vein Authentication},
+  author={Ma, Yuer and Huang, Haizhen and Luo, Dacan and Zhang, Shifeng and Kang, Wenxiong and Xie, Di},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2023},
+  publisher={IEEE}
+}
+
+@article{kang2014contactless,
+  title={Contactless palm vein recognition using a mutual foreground-based local binary pattern},
+  author={Kang, Wenxiong and Wu, Qiuxia},
+  journal={IEEE transactions on Information Forensics and Security},
+  volume={9},
+  number={11},
+  pages={1974--1985},
+  year={2014},
+  publisher={IEEE}
+}
 
 ## Contact
 Da can Luo   
